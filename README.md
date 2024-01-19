@@ -1,27 +1,26 @@
-# Blog
+# BLOG #
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+![Imagem do projeto](image.png)
 
-## Development server
+## 📝 Descrição do projeto ##
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Blog feito em Angular para o Bootcamp Desenvolvimento Frontend com Angular da [DIO](https://web.dio.me/track/coding-future-banco-pan-desenvolvimento-frontend-com-angular).
 
-## Code scaffolding
+## 🔧 Ferramentas e tecnologias ##
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Angular 14.1.2
+* Typescript
+* JavaScript
+* Node.js
 
-## Build
+## 📌 Funcionalidades ##
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Blog criado com Angular, utilizando componentes dinâmicos para atualizar o conteúdo e as imagens. Os próximos passos serão deixar o site responsivo e trabalhar mais no conteúdo de cada página.
 
-## Running unit tests
+## 🚶 Acesso ##
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Deploy disponível no [Vercel](https://blog-ochre-theta-51.vercel.app/).
 
-## Running end-to-end tests
+## 👩🏻‍💻 Feito por ##
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Desenvolvido com ♥ por [Bruna Soncini](www.linkedin.com/in/brunasoncini/).
