@@ -1,5 +1,5 @@
 .container__small-card {
-  width: 700px;
+  width: 50vw;
   margin-bottom: 15px;
 }
 
@@ -9,8 +9,7 @@
 }
 
 .small-card__photo > img {
-  width: 200px;
-  min-width: 200px;
+  width: 20vw;
   margin-right: 20px;
 }
 
@@ -20,6 +19,20 @@
   align-items: center;
 }
 
+.small-card__title > h1 {
+  font-size: 2em;
+}
+
 .container__small-card-separator {
-    margin-top: 10px;
+  margin-top: 10px;
+}
+
+@media (max-width: 1200px) {
+  .container__articles {
+    width: 20vw;
+  }
+  
+  .small-card__title > h1 {
+    font-size: 1em;
+  }
 }
